@@ -1,0 +1,6 @@
+{
+  "name": "คลังประวัติศาสตร์และหนังสือ - Historical Archive & Biography Reader",
+  "description": "คลังประวัติศาสตร์และหนังสือ รวบรวมข้อมูลประวัติศาสตร์ประเทศทั่วโลก บันทึกชีวประวัติบุคคลสำคัญ 1,000 ท่าน พร้อมระบบอ่านเอกสารจดหมายเหตุ 10 หน้าขึ้นไป",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

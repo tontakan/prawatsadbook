@@ -1,0 +1,144 @@
+{
+  "clips": [
+    {
+      "dur": 5.4865,
+      "idx": 0,
+      "kind": "objecturl",
+      "page": 0,
+      "seen": 0,
+      "size": 44609,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 25.7665,
+      "idx": 1,
+      "kind": "objecturl",
+      "page": 1,
+      "seen": 0,
+      "size": 210017,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 23.7665,
+      "idx": 2,
+      "kind": "objecturl",
+      "page": 2,
+      "seen": 1,
+      "size": 193904,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 17.5265,
+      "idx": 3,
+      "kind": "objecturl",
+      "page": 3,
+      "seen": 2,
+      "size": 142878,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 22.7665,
+      "idx": 4,
+      "kind": "objecturl",
+      "page": 4,
+      "seen": 3,
+      "size": 185432,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 22.6865,
+      "idx": 5,
+      "kind": "objecturl",
+      "page": 5,
+      "seen": 4,
+      "size": 184905,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 21.0865,
+      "idx": 6,
+      "kind": "objecturl",
+      "page": 6,
+      "seen": 5,
+      "size": 171901,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 18.8065,
+      "idx": 7,
+      "kind": "objecturl",
+      "page": 7,
+      "seen": 6,
+      "size": 152708,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 17.2065,
+      "idx": 8,
+      "kind": "objecturl",
+      "page": 8,
+      "seen": 7,
+      "size": 140416,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 16.6865,
+      "idx": 9,
+      "kind": "objecturl",
+      "page": 9,
+      "seen": 8,
+      "size": 135968,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 21.4465,
+      "idx": 10,
+      "kind": "objecturl",
+      "page": 10,
+      "seen": 9,
+      "size": 174685,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 18.1665,
+      "idx": 11,
+      "kind": "objecturl",
+      "page": 11,
+      "seen": 10,
+      "size": 148085,
+      "type": "audio/ogg"
+    },
+    {
+      "dur": 19.8465,
+      "idx": 12,
+      "kind": "objecturl",
+      "page": 12,
+      "seen": 11,
+      "size": 161935,
+      "type": "audio/ogg"
+    }
+  ],
+  "log": [
+    "คลิปที่ 1: objecturl 5.5 วิ, มาตอนหน้า 0 (เวลา 2 วิ)",
+    "คลิปที่ 2: objecturl 25.8 วิ, มาตอนหน้า 0 (เวลา 8 วิ)",
+    "คลิปที่ 3: objecturl 23.8 วิ, มาตอนหน้า 1 (เวลา 35 วิ)",
+    "คลิปที่ 4: objecturl 17.5 วิ, มาตอนหน้า 2 (เวลา 60 วิ)",
+    "คลิปที่ 5: objecturl 22.8 วิ, มาตอนหน้า 3 (เวลา 78 วิ)",
+    "คลิปที่ 6: objecturl 22.7 วิ, มาตอนหน้า 4 (เวลา 101 วิ)",
+    "คลิปที่ 7: objecturl 21.1 วิ, มาตอนหน้า 5 (เวลา 125 วิ)",
+    "คลิปที่ 8: objecturl 18.8 วิ, มาตอนหน้า 6 (เวลา 147 วิ)",
+    "คลิปที่ 9: objecturl 17.2 วิ, มาตอนหน้า 7 (เวลา 166 วิ)",
+    "คลิปที่ 10: objecturl 16.7 วิ, มาตอนหน้า 8 (เวลา 185 วิ)",
+    "คลิปที่ 11: objecturl 21.4 วิ, มาตอนหน้า 9 (เวลา 202 วิ)",
+    "คลิปที่ 12: objecturl 18.2 วิ, มาตอนหน้า 10 (เวลา 224 วิ)",
+    "คลิปที่ 13: objecturl 19.8 วิ, มาตอนหน้า 11 (เวลา 243 วิ)"
+  ],
+  "mode": "เรียงตามลำดับ เริ่มหน้า 0",
+  "notes": [
+    "กดฟังครั้งที่ 1 (คลิกจริง) ตอนได้ 0 คลิป อยู่หน้า 0 เวลา 0 วิ"
+  ],
+  "pages": 13,
+  "reason": "ได้เสียงครบทุกหน้า",
+  "seconds": 243,
+  "version": "9.4"
+}
